@@ -49,17 +49,6 @@ Edit
 chmod +x reconx_pro.sh
 ./reconx_pro.sh example.com
 
-
-OutoUt
-recon-data/<target>/
-├── all_subs.txt
-├── live.txt
-├── resolved.txt
-├── ports_*.txt
-├── tech.txt
-├── nuclei.txt
-└── screens/
-
 License & Author
 License: MIT
 
