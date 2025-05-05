@@ -1,9 +1,8 @@
-# ReconX-Pro
-A robust, fault-tolerant bug bounty recon framework with multi-tool fallback, fuzzing, and vulnerability scanning.
-
-ReconX-Pro – By ShadowPentest
+t
 
 # 🔍 ReconX-Pro
+
+A robust, fault-tolerant bug bounty recon framework with multi-tool fallback, fuzzing, and vulnerability scanning.
 
 **Advanced Recon Tool for Bug Bounty & Pentesting – Layered, Fault-Tolerant, Fully Automated**
 
